@@ -6,7 +6,8 @@
  * Version:     1.8.4
  * Author:      Proxyle
  * Author URI:  https://proxyle.com
- * License:     GPLv2 or later
+ * License:     Commercial License
+ * License URI: https://loquisoft.com/license
  * Text Domain: lemon-squeezy-woocommerce-gateway
  */
 
