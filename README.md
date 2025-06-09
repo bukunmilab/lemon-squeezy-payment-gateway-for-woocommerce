@@ -1,12 +1,12 @@
 === Lemon Squeezy for WooCommerce ===
-Contributors: proxyle
+Contributors: loquisoft
 Tags: lemon squeezy, woocommerce, payment gateway, subscriptions, checkout, digital products, recurring payments
 Requires at least: 5.0
 Tested up to: 6.4
 Requires PHP: 7.4
 Stable tag: 1.8.4
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: Commercial License
+License URI: https://loquisoft.com/license
 
 Integrates Lemon Squeezy payment gateway with WooCommerce for seamless one-time and subscription payments with full webhook support.
 
@@ -176,7 +176,7 @@ This version includes important stability improvements and enhanced webhook proc
 
 == Support ==
 
-For support and documentation, please visit [Proxyle.com](https://proxyle.com) or contact our support team.
+For support and documentation, please visit [Loquisoft.com](https://loquisoft.com) or contact our support team.
 
 == Privacy ==
 
