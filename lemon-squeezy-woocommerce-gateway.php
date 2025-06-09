@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Lemon Squeezy for WooCommerce
- * Plugin URI:  https://proxyle.com
+ * Plugin URI:  https://louisoft.com
  * Description: Integrates Lemon Squeezy payment gateway with WooCommerce for one-time and subscription payments. Supports simple and variable products.
  * Version:     1.8.4
- * Author:      Proxyle
+ * Author:      Loquisoft
  * Author URI:  https://proxyle.com
  * License:     Commercial License
  * License URI: https://loquisoft.com/license
